@@ -1,0 +1,46 @@
+/* cssform.css */
+body {
+	font-family: Arial, sans-serif;
+	font-size: 20px;
+}
+
+.contenedor {
+	width:100%;
+}
+
+.contenido {
+	width: 42%;
+	margin: 0 auto;
+	overflow:hidden;
+	float:center;
+	border: 4px solid #000;
+	text-align:center;
+}
+
+.cabecera {
+	margin:0 auto;
+	background: #9cf;
+	overflow:hidden;
+	position:absolute;
+	text-align:center;
+}
+
+
+.columna_principal {
+	width: 40%;
+	margin: 0 auto;
+	height: 150px;
+	float: center;
+	overflow:hidden;
+}
+
+			
+.pie {
+	clear: both;
+	padding: 1em;
+	align:center;
+	height: 50px;
+	background: white;
+	overflow:hidden;
+	font-align: center;
+}
